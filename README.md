@@ -1,12 +1,19 @@
-<p><img src="http://www.codestring.co.uk/site/wp-content/uploads/2016/07/VisualStudio.png" width="600" height="200" alt="visual studio" /></p>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"
+<title>Markdown to html exercise</title>
+</body>
+<link href="becode.css" rel="stylesheet" type="text/css">
+<p><img src="http://www.codestring.co.uk/site/wp-content/uploads/2016/07/VisualStudio.png" width="200" height="200" alt="visual studio" /></p>
 
 <h2 id="visualstudio">Visual Studio </h2>
 
 <p>Multi functional and  free editor.
 Feels a bit bloated at times but it has an overall good functionality, 
-working with almost all commercial language's </p>
+working with almost all commercial language's know to </p>
 
-<h2 id="sublimehttpiconsiconarchivecomiconsbokehliciapacifica256sublimetexticonpng"><img src="http://icons.iconarchive.com/icons/bokehlicia/pacifica/256/sublime-text-icon.png" alt="sublime" /> </h2>
+<h2 id="sublimehttpiconsiconarchivecomiconsbokehliciapacifica256sublimetexticonpng"><img src="http://icons.iconarchive.com/icons/bokehlicia/pacifica/256/sublime-text-icon.png"  width="200" height="200"alt="sublime" /> </h2>
 
 <h2 id="sublimetext">Sublime text</h2>
 
@@ -14,7 +21,7 @@ working with almost all commercial language's </p>
 It stays maintained,
 almost no noticeable difference between the paid version and the free version.</p>
 
-<h2 id="webstormhttpsiconiconscomicons21381png512webstorm_93692png"><img src="https://icon-icons.com/icons2/1381/PNG/512/webstorm_93692.png" alt="webstorm" /></h2>
+<h2 id="webstormhttpsiconiconscomicons21381png512webstorm_93692png"><img src="https://icon-icons.com/icons2/1381/PNG/512/webstorm_93692.png"  width="200" height="200" alt="webstorm" /></h2>
 
 <h2 id="webstorm">Web Storm</h2>
 
@@ -24,14 +31,42 @@ almost no noticeable difference between the paid version and the free version.</
 
 <h2 id="brackets">Brackets</h2>
 
-<p>| pros | cons |
-|:--------:| -------------:|
-| easy to use | limited to a few languages
-clear layout | non universal shortcuts
-open source | no build in cheat sheet </p>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>pros</th>
+    <th>cons</th> 
+  </tr>
+  <tr>
+    <td>easy to use</td>
+    <td>limited to a few languages</td>
+  
+  </tr>
+  <tr>
+    <td>clear layout</td>
+    <td>short cuts are not universal</td>
+  </tr>
+  <tr>
+    <td>open source</td>
+    <td>no build in cheat sheets</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 <h1 id="areourrequirementsmet">Are our Requirements met?</h1>
-
 <li>[x] Environment - what other applications are we using? </li>
 
 <li>[x] What programming languages are we using? HTML, CSS, JS</li>
@@ -64,11 +99,21 @@ open source | no build in cheat sheet </p>
 
 <li><p>When working with a desktop workstation i would choose visual studio due to its multi functionality</p>
 
-<h1 id="sourcehttpswwwgooglecomlaughing">Source : https://www.google.com :laughing:</h1>
+<h1 body {
+  font-size: 20px;
+}
+</style>
+<body>
 
-<p>Here is a random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:</p></li>
-</ol>
+<span style='font-size:100px;'>&#128512;</span>
 
-<pre><code class="javascript language-javascript">var s = "JavaScript syntax highlighting";
+</h1>
+
+<p>random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:</p>
+<xmp>
+code class="javascript language-javascript">var s = "JavaScript syntax highlighting";
 alert(s);
-</code></pre>
+</xmp>
+</ol>
+</body>
+</html>
