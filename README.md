@@ -110,10 +110,10 @@ table, th, td {
 </h1>
 
 <p>random piece of code with no other purpose than meeting the requirements for this markdown sheet exercise:</p>
-<xmp>
+<code>
 code class="javascript language-javascript">var s = "JavaScript syntax highlighting";
 alert(s);
-</xmp>
+</code>
 </ol>
 </body>
 </html>
