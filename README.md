@@ -31,17 +31,6 @@ almost no noticeable difference between the paid version and the free version.</
 
 <h2 id="brackets">Brackets</h2>
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-</head>
-<body>
-
 <table style="width:100%">
   <tr>
     <th>pros</th>
