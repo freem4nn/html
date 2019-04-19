@@ -1,10 +1,10 @@
-<p><img src="http://www.codestring.co.uk/site/wp-content/uploads/2016/07/VisualStudio.png" alt="visual studio" /></p>
+<p><img src="http://www.codestring.co.uk/site/wp-content/uploads/2016/07/VisualStudio.png" width="600" height="200" alt="visual studio" /></p>
 
 <h2 id="visualstudio">Visual Studio </h2>
 
 <p>Multi functional and  free editor.
 Feels a bit bloated at times but it has an overall good functionality, 
-working with almost all commercial language's know to </p>
+working with almost all commercial language's </p>
 
 <h2 id="sublimehttpiconsiconarchivecomiconsbokehliciapacifica256sublimetexticonpng"><img src="http://icons.iconarchive.com/icons/bokehlicia/pacifica/256/sublime-text-icon.png" alt="sublime" /> </h2>
 
